@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../../../trackzie app /trackzie_app/lib/main.dart" description="0xFF03A9F4" line="11" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e8b802-28c6-42db-9c6c-cca2085d758a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/loyaltycommunications/bmly/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/loyaltycommunications/bmly/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bmly/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/bmly/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bmly/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/bmly/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/adapter/DiffUtilCallback.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/adapter/DiffUtilCallback.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/base/BaseViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/constant/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/constant/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/CampaignRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/CampaignRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/SignUpRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/SignUpRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/SplashRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/SplashRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/StoresRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/StoresRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/AppDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/CampaignListDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/CampaignListDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/HomePostsDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/local/HomePostsDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/CampaignModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/CampaignModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/CountryList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/CountryList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/HomePosts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/HomePosts.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/LoyaltyCards.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/LoyaltyCards.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/StoreListModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/StoreListModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/adapter/StoreCategoryModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/adapter/StoreCategoryModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ActivationRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ActivationRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ActivationResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ActivationResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ApiResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/ApiResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/SignUpRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/SignUpRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/SignUpResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/SignUpResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/StoreListRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/network/StoreListRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/remote/ApiEndPoints.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/remote/ApiEndPoints.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/ViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/ViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/ViewModelFactoryFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/ViewModelFactoryFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/component/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/component/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/component/ViewModelInjector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/component/ViewModelInjector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/module/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/module/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/module/NetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/di/module/NetworkModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/CampaignListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/viewmodel/CampaignItemsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/viewmodel/CampaignItemsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/viewmodel/CampaignListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/campaign/viewmodel/CampaignListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/AddCardsListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/AddCardsListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/CardsDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/CardsDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/HomeCardsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/HomeCardsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/StampsDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/StampsDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/StampsListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/StampsListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/AddCardListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/AddCardListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/CardsDetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/CardsDetailViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/StampsDetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/StampsDetailViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/StampsListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/viewmodel/StampsListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/common/GenericWebViewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/common/GenericWebViewFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/MainHomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/MainHomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/HomeSettingsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/HomeSettingsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/SettingsAccountFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/SettingsAccountFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/StoreSettingsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/StoreSettingsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/viewmodel/StoreSettingsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/viewmodel/StoreSettingsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpConfirmFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpConfirmFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/SignUpFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/viewmodel/SignUpConfirmViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/viewmodel/SignUpConfirmViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/viewmodel/SignUpViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/signup/viewmodel/SignUpViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/splash/SplashActivityFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/splash/SplashActivityFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/splash/viewmodel/SplashActivityViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/splash/viewmodel/SplashActivityViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreDetailFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/StoreListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/StoreListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/viewmodel/HomeStoreListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/viewmodel/HomeStoreListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/BindingAdapters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/BindingAdapters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/PreferenceHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/PreferenceHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/RecyclerSectionItemDecor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/RecyclerSectionItemDecor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/FragmentExtensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/FragmentExtensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/OnBackPressed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/OnBackPressed.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/ViewExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/extensions/ViewExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/enter_from_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/enter_from_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/enter_from_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/enter_from_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/exit_to_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/exit_to_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/anim/exit_to_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/anim/exit_to_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-nodpi/circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable-nodpi/circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-nodpi/rect.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable-nodpi/rect.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_foreground_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_foreground_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout-v21/item_row_store_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout-v21/item_row_store_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout-v21/item_section_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout-v21/item_section_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/bottom_sheet_country.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/bottom_sheet_country.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_confirm_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_confirm_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home_cards.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home_cards.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home_store_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home_store_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_home_stores.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_home_stores.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_item_store_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_item_store_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_loyalty_cards_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_loyalty_cards_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_settings_store.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_settings_store.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_settings_store_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_settings_store_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_webview_temp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_webview_temp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_button_panel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_button_panel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_campaign_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_campaign_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_campaign_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_campaign_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_fragment_panel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_fragment_panel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_home_inbox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_home_inbox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_imgslider_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_imgslider_top.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_store_settings_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_store_settings_spinner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/splash_activity_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/splash_activity_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/menu/camp_button_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/menu/camp_button_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/menu/menu_stores_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/menu/menu_stores_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/menu/navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/menu/navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_new_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_new_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/navigation/home_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/navigation/home_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/navigation/navigation_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/navigation/navigation_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/navigation/signup_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/navigation/signup_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/ic_launcher_background_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/ic_launcher_background_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/xml/pref_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/xml/pref_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/xml/pref_my_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/xml/pref_my_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ui/home/HomeListViewModelTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ui/home/HomeListViewModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ui/home/SignUpViewModelTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loyaltycommunications/bmly/ui/home/SignUpViewModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/AddCardsListFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="68" column="85" selection-start-line="68" selection-start-column="85" selection-end-line="68" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="220" column="32" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeListAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1012">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#44#1158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_loyalty_cards_list.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreDetailFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>status</find>
+      <find>snack</find>
+      <find>internet</find>
+      <find>filter</find>
+      <find>startActivityForResult</find>
+      <find>pop</find>
+      <find>navigation</find>
+      <find>keyboard</find>
+      <find>app</find>
+      <find>size</find>
+      <find>paypal</find>
+      <find>recyclerview</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/bottom_sheet_country.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/adapter/StoreCategoryModel.kt" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/item_store_settings_spinner.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/toolbar.xml" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/ConnectivityReceiver.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/NetworkStateReceiver.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/MainHomeActivity.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/StoreSettingsFragment.kt" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_settings_store_new.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/navigation/home_navigation.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/AddCardsListFragment.kt" />
+        <option value="$PROJECT_DIR$/../build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="bmly" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="bmly" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="di" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="bmly" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="bmly" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Nexus_6P_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="loyaltycommunications.bmly" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Nexus_6P_API_28" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.app [build]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.app [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e8b802-28c6-42db-9c6c-cca2085d758a" name="Default Changelist" comment="" />
+      <created>1556197785836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556197785836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49726027" visible="true" weight="0.28836834" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.32956383" />
+      <window_info id="Build Variants" order="3" sideWeight="0.5020408" side_tool="true" weight="0.33844912" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.32956383" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" sideWeight="0.5027397" side_tool="true" weight="0.25121164" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32876712" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50080776" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49919224" weight="0.32876712" />
+      <window_info anchor="bottom" id="Logcat" order="8" weight="0.4671233" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" sideWeight="0.49919224" weight="0.32876712" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32876712" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32956383" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" weight="0.32956383" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.32390952" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>!status.value!!</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!status.value</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>status.value</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout-v21/item_row_store_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_settings_store.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="227" column="38" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52434b8e8ffc51799bf0aeb5f3847536/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1349" column="18" selection-start-line="1349" selection-start-column="18" selection-end-line="1349" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/item_store_settings_spinner.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/data/model/adapter/StoreCategoryModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/bottom_sheet_country.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/SettingsAccountFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_home.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/toolbar.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#541#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated/data_binding_base_class_source_out/bmlydevserverDebug/dataBindingGenBaseClassesBmlydevserverDebug/out/loyaltycommunications/bmly/databinding/FragmentHomeBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0-alpha02/320e88ddcaac8225583ac4583ffbbe0474534ef0/recyclerview-1.1.0-alpha02-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="1609" column="9" lean-forward="true" selection-start-line="1609" selection-start-column="9" selection-end-line="1609" selection-end-column="9" />
+          <folding>
+            <element signature="e#67212#67213#0" expanded="true" />
+            <element signature="e#67256#67257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.1.0-alpha02/5411028b44e34d8adc95797fe7f6e05d322ebe83/lifecycle-livedata-core-2.1.0-alpha02-sources.jar!/androidx/lifecycle/MutableLiveData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1409#1410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/3.4.0/13d4d003fe74205953ebe4b074e9c2acb9ef4bf8/databinding-runtime-3.4.0-sources.jar!/androidx/databinding/DataBindingUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="106" column="42" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.1.0-alpha02/5411028b44e34d8adc95797fe7f6e05d322ebe83/lifecycle-livedata-core-2.1.0-alpha02-sources.jar!/androidx/lifecycle/LiveData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/ConnectivityReceiver.kt" />
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/net/ConnectivityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="3074" column="5" lean-forward="true" selection-start-line="3074" selection-start-column="5" selection-end-line="3074" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/viewmodel/HomeListViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="63" column="68" selection-start-line="63" selection-start-column="68" selection-end-line="63" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/util/NetworkStateReceiver.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+          <folding>
+            <element signature="e#41#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/3.4.0/13d4d003fe74205953ebe4b074e9c2acb9ef4bf8/databinding-runtime-3.4.0-sources.jar!/androidx/databinding/ViewDataBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="526" column="16" selection-start-line="526" selection-start-column="16" selection-end-line="526" selection-end-column="16" />
+          <folding>
+            <element signature="e#18503#18504#0" expanded="true" />
+            <element signature="e#18531#18532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c7ac22966d9d83c27df8a13539e4072/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_sign_up.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0-alpha02/1a24e9f62af2b129dbc5535693ee99904a5c828f/appcompat-1.1.0-alpha02-sources.jar!/androidx/appcompat/widget/SearchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreListFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="245" column="30" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="30" />
+          <folding>
+            <element signature="e#46#1165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/navigation/home_navigation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="nav-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/MainHomeActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#44#698#0" expanded="true" />
+            <element signature="e#2600#2633#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout-v21/item_section_header.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/settings/StoreSettingsFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main_home.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="e#616#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_home_store_detail.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/StoreListAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_settings_store_new.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0-alpha04/870733dc7b6530396cd37e2c52808e2a438f1f82/fragment-1.1.0-alpha04-sources.jar!/androidx/fragment/app/Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="747" column="34" selection-start-line="747" selection-start-column="34" selection-end-line="747" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc8de43ce1a7027902e18240b4f3ee6f/jars/classes.jar!/io/card/payment/CardIOActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8161">
+          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#29406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="8423" column="27" selection-start-line="8423" selection-start-column="27" selection-end-line="8423" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/CardsDetailFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.card/android-sdk/5.5.1/465a90c304124088e868b4e24fae629ce5907736/android-sdk-5.5.1-sources.jar!/io/card/payment/CardIOActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="86" column="16" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.1.1-all/97z1ksx6lirer3kbvdnh7jtjg/gradle-5.1.1/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/cards/AddCardsListFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="68" column="85" selection-start-line="68" selection-start-column="85" selection-end-line="68" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_loyalty_cards_list.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/stores/HomeStoreDetailFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeListAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle___jb_old___">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt___jb_old___">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt___jb_tmp___">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="220" column="32" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/loyaltycommunications/bmly/ui/home/HomeFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#44#1158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

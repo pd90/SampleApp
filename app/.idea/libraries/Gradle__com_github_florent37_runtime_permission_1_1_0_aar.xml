@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:runtime-permission:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aaf4e9c6d042b36ab6e4eb2f1599114e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aaf4e9c6d042b36ab6e4eb2f1599114e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/runtime-permission/1.1.0/9bdfa63606d1e768f18fe913f68c0cac26ca633d/runtime-permission-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="sample_application">Sample Application</string>
+    <string name="inserted_success">\" Data inserted successfully\"</string>
+    <string name="valid_username">Please enter a valid username</string>
+    <string name="valid_password">Please enter a valid password!</string>
+</resources>

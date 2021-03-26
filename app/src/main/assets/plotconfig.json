@@ -1,0 +1,8 @@
+{
+  "publicToken": "c3dcV6nzennASNKS",
+  "enableOnFirstRun": true,
+  "debug": true,
+  "automaticallyAskLocationPermission": true,
+  "showOnGoingNotification": "during_network_request",
+  "notificationSmallIcon": "icon1"
+}

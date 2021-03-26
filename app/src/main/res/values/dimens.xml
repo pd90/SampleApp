@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="recycler_section_header_height">40dp</dimen>
+    <dimen name="item_offset">8dp</dimen>
+</resources>
